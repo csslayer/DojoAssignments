@@ -1,0 +1,1 @@
+These are files and folders related to coding dojo
